@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "671930646495",
+    "project_id": "screen-share-45263",
+    "storage_bucket": "screen-share-45263.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671930646495:android:3b22956556d9bbe0c1ce6a",
+        "android_client_info": {
+          "package_name": "in.clubofcoders.screen_share"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671930646495-1alivlhok8f81437cp6hmrfnlnange22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp9BsIcUfp4HuLZqj0XTZdc-ixVjXwOYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671930646495-1alivlhok8f81437cp6hmrfnlnange22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
